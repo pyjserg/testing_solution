@@ -1,0 +1,7 @@
+APP_URL = 'http://localhost:5000'
+PURCHASED_SERVICES_URL_TAIL = '/client/services'
+ALL_SERVISES_TAIL = '/services'
+ADD_SERVICE_TAIL = '/client/add_service'
+CONNECTION_NAME = 'localhost'
+RESPONSE_ERROR_MSG = 'An error occurred while connecting the server.'
+DB_FILE_NAME = './web/clients.db'
